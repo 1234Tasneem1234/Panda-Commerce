@@ -1,0 +1,24 @@
+.slider-bg{
+    background-image: linear-gradient(rgb(252, 193, 204), rgb(146, 218, 247));
+}
+#subscribe {
+    font-family: 'Uchen', serif;
+    background-image: linear-gradient(rgb(247, 214, 255), rgb(173, 240, 229));
+}
+.slider-buy-btn{
+    background-image: linear-gradient(rgb(148, 148, 148), rgb(255, 255, 255));
+    color: black;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 10px;
+    padding: 8px 15px;
+    border: 0;
+}
+.buy-now-btn{
+    background-color: brown;
+    color: whitesmoke;
+}
+.submit-btn{
+    background-color: rgb(238, 104, 166);
+    border-radius: 100px;
+}
